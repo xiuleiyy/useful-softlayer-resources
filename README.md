@@ -87,3 +87,4 @@ Softlayer Chinese Resources
 19. 迁移到 SoftLayer: 使用 Racemi Cloud Path 服务将 IBM WebSphere Application Server V8.0 64 位 BYOL VM 从 SCE 迁移到 Softlayer http://www.ibm.com/developerworks/cn/cloud/library/cl-sce-migrate-websphere/
 20. 迁移到 SoftLayer: 使用 Racemi Cloud Path 服务将 Red Hat Enterprise Linux VM 实例从 SCE 迁移到 SoftLayer http://www.ibm.com/developerworks/cn/cloud/library/cl-sce-migrate-redhat/
 21. #Softlayer# 设计基于云的始终在线系统的途径 一种适用于启用了云的数据中心的架构 http://www.ibm.com/developerworks/cn/cloud/library/cl-bluemix-always-on/
+22. 使用 Open edX 在 SoftLayer 上构建在线学习平台 http://www.ibm.com/developerworks/cn/cloud/library/cl-openedx-softlayer-app/index.html
